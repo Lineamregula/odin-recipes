@@ -1,0 +1,15 @@
+/* styles.css */
+
+head {
+    color: black;
+    background-color: white;
+}
+
+h1 {
+    color: black;
+}
+
+p {
+    color: #333;
+    line-height: 1.6;
+}
